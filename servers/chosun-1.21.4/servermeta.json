@@ -1,0 +1,31 @@
+{
+  "$schema": "file:///D:/helios/chosun/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "조선야화2",
+    "description": "조선야화2 Running Minecraft 1.21.4 (Fabric v0.17.2)",
+    "icon": "https://raw.githubusercontent.com/BabyBear7/chosun-distro/main/servericon.png",
+    "address": "chosun.mcv.kr",
+    "discord": {
+      "shortId": "1471167877070454846",
+      "largeImageText": "조선야화2",
+      "largeImageKey": "chosun"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.17.2"
+  },
+  "untrackedFiles": [
+    {
+        "appliesTo": ["files"],
+        "patterns": [
+          "options.txt",
+          "config/*",
+          "config/**/*",
+          "servers.dat"
+        ]
+    }
+  ]
+}
