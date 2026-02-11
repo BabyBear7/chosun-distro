@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "1471167877070454846",
+    "smallImageText": "조선야화2",
+    "smallImageKey": "chosun"
   },
   "servers": [
     {
@@ -12,12 +12,12 @@
       "name": "조선야화2",
       "description": "조선야화2 Running Minecraft 1.21.4 (Fabric v0.17.2)",
       "icon": "https://raw.githubusercontent.com/BabyBear7/chosun-distro/main/servericon.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "chosun.mcv.kr",
       "minecraftVersion": "1.21.4",
       "discord": {
-        "shortId": "1471167877070454846",
-        "largeImageText": "조선야화2",
+        "shortId": "조선야화2",
+        "largeImageText": "조선야화2 서버",
         "largeImageKey": "chosun"
       },
       "mainServer": true,
@@ -186,6 +186,16 @@
           }
         },
         {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 312,
+            "url": "https://raw.githubusercontent.com/BabyBear7/chosun-distro/main/servers/chosun-1.21.4/files/config/iris.properties",
+            "path": "config/iris.properties"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
@@ -193,6 +203,16 @@
             "size": 5733,
             "url": "https://raw.githubusercontent.com/BabyBear7/chosun-distro/main/servers/chosun-1.21.4/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 34484,
+            "url": "https://raw.githubusercontent.com/BabyBear7/chosun-distro/main/servers/chosun-1.21.4/files/servers.dat",
+            "path": "servers.dat"
           }
         },
         {
