@@ -12,7 +12,7 @@
       "name": "조선야화2",
       "description": "조선야화2 Running Minecraft 1.21.4 (Fabric v0.17.2)",
       "icon": "https://raw.githubusercontent.com/BabyBear7/chosun-distro/main/servericon.png",
-      "version": "0.0.7",
+      "version": "0.0.8",
       "address": "roading.test",
       "minecraftVersion": "1.21.4",
       "discord": {
@@ -183,9 +183,9 @@
           "name": "Examplemodjm",
           "type": "FabricMod",
           "artifact": {
-            "size": 209992,
+            "size": 211384,
             "url": "https://raw.githubusercontent.com/BabyBear7/chosun-distro/main/servers/chosun-1.21.4/fabricmods/required/secret-stories-of-joseon-api-fabric-2.0.0-1.21.4-SNAPSHOT.jar",
-            "MD5": "dde71b870bc2116ca2f07c0f3e02a278"
+            "MD5": "7252abbb01d325963391a29196cc0cdf"
           }
         },
         {
