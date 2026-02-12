@@ -12,8 +12,8 @@
       "name": "조선야화2",
       "description": "조선야화2 Running Minecraft 1.21.4 (Fabric v0.17.2)",
       "icon": "https://raw.githubusercontent.com/BabyBear7/chosun-distro/main/servericon.png",
-      "version": "1.0.3",
-      "address": "chosun.mcv.kr",
+      "version": "0.0.7",
+      "address": "roading.test",
       "minecraftVersion": "1.21.4",
       "discord": {
         "shortId": "조선야화2",
@@ -233,9 +233,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 34484,
+            "size": 80,
             "url": "https://raw.githubusercontent.com/BabyBear7/chosun-distro/main/servers/chosun-1.21.4/files/servers.dat",
-            "MD5": "8ad97c568de5b2d5dfbb01068be132f9",
+            "MD5": "0df253386125fd50b3b8e49348f9fbd0",
             "path": "servers.dat"
           }
         },
