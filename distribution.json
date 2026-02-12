@@ -12,7 +12,7 @@
       "name": "조선야화2",
       "description": "조선야화2 Running Minecraft 1.21.4 (Fabric v0.17.2)",
       "icon": "https://raw.githubusercontent.com/BabyBear7/chosun-distro/main/servericon.png",
-      "version": "0.0.6",
+      "version": "0.0.7",
       "address": "roading.test",
       "minecraftVersion": "1.21.4",
       "discord": {
