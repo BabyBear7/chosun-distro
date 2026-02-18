@@ -12,7 +12,7 @@
       "name": "조선야화2",
       "description": "조선야화2 Running Minecraft 1.21.4 (Fabric v0.17.2)",
       "icon": "https://raw.githubusercontent.com/BabyBear7/chosun-distro/main/servericon.png",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "address": "chosun.mcv.kr",
       "minecraftVersion": "1.21.4",
       "discord": {
@@ -164,8 +164,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3514384,
-            "url": "https://raw.githubusercontent.com/BabyBear7/chosun-distro/main/servers/chosun-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
-            "MD5": "3893e727701bc66b4f3dbd80a434282d"
+            "url": "https://raw.githubusercontent.com/BabyBear7/chosun-distro/main/servers/chosun-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar"
           }
         },
         {
