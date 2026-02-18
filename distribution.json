@@ -12,13 +12,19 @@
       "name": "조선야화2",
       "description": "조선야화2 Running Minecraft 1.21.4 (Fabric v0.17.2)",
       "icon": "https://raw.githubusercontent.com/BabyBear7/chosun-distro/main/servericon.png",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "address": "chosun.mcv.kr",
       "minecraftVersion": "1.21.4",
       "discord": {
         "shortId": "조선야화2",
         "largeImageText": "조선야화2 서버",
         "largeImageKey": "chosun"
+      },  
+      "javaOptions": {
+        "ram": {
+          "minimum": 4608,
+          "recommended": 6144
+        }
       },
       "mainServer": true,
       "autoconnect": true,
